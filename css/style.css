@@ -141,9 +141,7 @@ img, video, audio, iframe, table, form {
   /* background: #ccc; */
 }
 
-.col-3 {
-  /* background: #ccc; */
-}
+
 
 [class*="col-"] {
   margin-left: 2%;
